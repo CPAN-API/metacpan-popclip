@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 
 use strict;
 use warnings;
@@ -15,6 +15,6 @@ __END__
 
 =head1 SYNOPSIS
 
-INSTALL_POPCLIP_EXTENSION=1 ./bin/module-lookup.pl
+INSTALL_POPCLIP_EXTENSION=1 perl bin/module-lookup.pl
 
 =cut
