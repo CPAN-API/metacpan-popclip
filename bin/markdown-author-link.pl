@@ -10,7 +10,7 @@ use Mac::PopClip::Quick (
 );
 
 printf(
-    '[https://metacpan.org/author/%s](%s)',
+    '[%s](https://metacpan.org/author/%s)',
     popclip_text, popclip_text
 );
 
